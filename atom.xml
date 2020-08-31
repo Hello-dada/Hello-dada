@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://hello-dada-github-io.vercel.app/</id>
+    <id>https://hello-dada.github.io</id>
     <title>Hello dada !</title>
-    <updated>2020-08-31T05:32:28.937Z</updated>
+    <updated>2020-08-31T05:38:41.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://hello-dada-github-io.vercel.app/"/>
-    <link rel="self" href="https://https://hello-dada-github-io.vercel.app/atom.xml"/>
+    <link rel="alternate" href="https://hello-dada.github.io"/>
+    <link rel="self" href="https://hello-dada.github.io/atom.xml"/>
     <subtitle>温故而知新,可以为师矣。</subtitle>
-    <logo>https://https://hello-dada-github-io.vercel.app/images/avatar.png</logo>
-    <icon>https://https://hello-dada-github-io.vercel.app/favicon.ico</icon>
+    <logo>https://hello-dada.github.io/images/avatar.png</logo>
+    <icon>https://hello-dada.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hello dada !</rights>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
-        <id>https://https://hello-dada-github-io.vercel.app/post/hello-world/</id>
-        <link href="https://https://hello-dada-github-io.vercel.app/post/hello-world/">
+        <id>https://hello-dada.github.io/post/hello-world/</id>
+        <link href="https://hello-dada.github.io/post/hello-world/">
         </link>
         <updated>2020-08-30T15:39:47.000Z</updated>
     </entry>
