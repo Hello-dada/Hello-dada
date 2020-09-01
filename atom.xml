@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://4jju2d.coding-pages.com</id>
     <title>Hello dada !</title>
-    <updated>2020-08-31T15:59:00.498Z</updated>
+    <updated>2020-09-01T01:44:05.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://4jju2d.coding-pages.com"/>
     <link rel="self" href="https://4jju2d.coding-pages.com/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://4jju2d.coding-pages.com/images/avatar.png</logo>
     <icon>https://4jju2d.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Hello dada !</rights>
+    <entry>
+        <title type="html"><![CDATA[注册域名失败]]></title>
+        <id>https://4jju2d.coding-pages.com/post/zhu-ce-yu-ming-shi-bai/</id>
+        <link href="https://4jju2d.coding-pages.com/post/zhu-ce-yu-ming-shi-bai/">
+        </link>
+        <updated>2020-09-01T01:42:08.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>https://4jju2d.coding-pages.com/post/hello-world/</id>
