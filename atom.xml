@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hello-dada.github.io</id>
     <title>Hello dada !</title>
-    <updated>2020-09-03T15:56:48.290Z</updated>
+    <updated>2020-09-03T15:58:29.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hello-dada.github.io"/>
     <link rel="self" href="https://Hello-dada.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://Hello-dada.github.io/images/avatar.png</logo>
     <icon>https://Hello-dada.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hello dada !</rights>
-    <entry>
-        <title type="html"><![CDATA[sss]]></title>
-        <id>https://Hello-dada.github.io/post/sss/</id>
-        <link href="https://Hello-dada.github.io/post/sss/">
-        </link>
-        <updated>2020-09-02T06:36:36.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[注册域名失败]]></title>
         <id>https://Hello-dada.github.io/post/zhu-ce-yu-ming-shi-bai/</id>
